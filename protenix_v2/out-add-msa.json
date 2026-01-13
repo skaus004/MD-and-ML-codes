@@ -1,0 +1,33 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AMPLDAGGQNSTQMVLAPGASIFRCRQCGQTISRRDWLLPMGGDHEHVVFNPAGMIFRVWCFSLAQGLRLIGAPSGEFSWFKGYDWTIALCGQCGSHLGWHYEGGSQPQTFFGLIKDRLAEGPAD",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/exx/Projects/16_stat6/protenix_v2/output/protenix_prediction_OCT20_sample/msa_resmsa_seq_0/0",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QFRHLPMPFHWKQEELKFKTGLRRLQHRVGEIHLLREALQKGAEAGQVSLHSLIETPANGTGPSEALAMLLQETTGELEAAKALVLKRIQIWKRQQQLAGNGAPFEESLAPLQERCESLVDIYSQLQQEVGAAGGELEPKTRASLTGRLDEVLRTLVTSCFLVEKQPPQVLKTQTKFQAGVRFLLGLRFLGAPAKPPLVRADMVTEKQARELSVPQGPGAGAESTGEIINNTVPLENSIPGNCCSALFKNLLLKKIKRCERKGTESVTEEKCAVLFSASFTLGPGKLPIQLQALSLPLVVIVHGNQDNNAKATILWDNAFSEMDRVPFVVAERVPWEKMCETLNLKFMAEVGTNRGLLPEHFLFLAQKIFNDNSLSMEAFQHRSVSWSQFNKEILLGRGFTFWQWFDGVLDLTKRCLRSYWSDRLIIGFISKQYVTSLLLNEPDGTFLLRFSDSEIGGITIAHVIRGQDGSPQIENIQPFSAKDLSIRSLGDRIRDLAQLKNLYPKKPKDEAFRSHYKPEQMGKDGRGYVPATIKMTVERDQPLPT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/exx/Projects/16_stat6/protenix_v2/output/protenix_prediction_OCT20_sample/msa_resmsa_seq_0/1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "ligand": {
+                    "ligand": "CN(C)C(=O)c1cc2c(-c3ccc(N4CCC(N5CCN(c6ccc(C7CCC(=O)NC7=O)cc6F)CC5)CC4)c(F)c3F)cc(C3=CCCN(C(=O)CCn4cccn4)C3)c(F)c2[nH]1",
+                    "count": 1
+                }
+            }
+        ],
+        "name": "protenix_prediction_OCT20_sample"
+    }
+]
